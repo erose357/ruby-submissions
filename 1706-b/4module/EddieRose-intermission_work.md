@@ -37,8 +37,8 @@
 
 ## Eddie Rose
 
-* Reflection Gist:
-* Sorting Suite Repo:
+* Reflection Gist: https://gist.github.com/erose357/3963568737e573ed408a16352fd5b39c
+* Sorting Suite Repo: https://github.com/erose357/sorting-suite-js
 
 ## Jay Hodges
 
